@@ -60,8 +60,8 @@ Ingeniero en Ciencias y Sistemas con **más de 13 años** de experiencia en desa
 **Ingeniería en Ciencias y Sistemas**
 
 ### Certificaciones
-- 🏆 Diplomas en Liderazgo
-- 🏆 Diplomas en Magento
+- 🏆 [Diplomas en Liderazgo](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8)
+- 🏆 [Diplomas en Magento](https://drive.google.com/drive/folders/1uMmoJYeGI6gXlhW1Do8CZKy3Nhee2bv1)
 
 ---
 
