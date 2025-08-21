@@ -55,22 +55,54 @@
 
 ---
 
-## 🏅 Top 10 Certificaciones y Diplomas
+## 🏅 Certificaciones y Diplomas
 
 <div align="center">
 
-### 🎓 Certificaciones Profesionales
-| Certificación | Área | Link |
-|---------------|------|------|
-| 🏆 **Agile Leader** | Metodologías Ágiles | [Certiprof](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8) |
-| 🛒 **Adobe Ecommerce Developer Professional** | E-commerce | [Adobe](https://drive.google.com/drive/folders/1uMmoJYeGI6gXlhW1Do8CZKy3Nhee2bv1) |
-| 👨‍💼 **Mentoring Líderes** | Liderazgo | [Ver Diploma](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8) |
-| 🛒 **Magento Developer Certified** | Magento | [Ver Certificación](https://drive.google.com/drive/folders/1uMmoJYeGI6gXlhW1Do8CZKy3Nhee2bv1) |
-| 📚 **Diplomas en Liderazgo** | Management | [Ver Colección](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8) |
-| 🎓 **Ingeniería en Ciencias y Sistemas** | Sistemas | Universidad San Carlos |
-| 💻 **Bachiller en Computación** | Computación | LCT Zona 7 |
+### 🎓 **Certificaciones Principales**
 
-📋 **Ver todas las certificaciones**: [Diplomas Generales](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8) | [Magento Específicos](https://drive.google.com/drive/folders/1uMmoJYeGI6gXlhW1Do8CZKy3Nhee2bv1)
+<table>
+<tr>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/4285F4/white?text=Agile+Leader" alt="Agile Leader" width="150"><br>
+<strong>🏆 Agile Leader</strong><br>
+<em>Certiprof</em>
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/FF6C37/white?text=Adobe+Ecommerce" alt="Adobe Ecommerce" width="150"><br>
+<strong>🛒 Adobe Ecommerce Developer Professional</strong><br>
+<em>Adobe</em>
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/1976D2/white?text=Mentoring+Lideres" alt="Mentoring Líderes" width="150"><br>
+<strong>👨‍💼 Mentoring Líderes</strong><br>
+<em>Liderazgo</em>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/FF6C37/white?text=Magento+Developer" alt="Magento Developer" width="150"><br>
+<strong>🛒 Magento Developer Certified</strong><br>
+<em>Magento</em>
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/2E7D32/white?text=Ingenier%C3%ADa" alt="Ingeniería" width="150"><br>
+<strong>🎓 Ingeniería en Ciencias y Sistemas</strong><br>
+<em>Universidad San Carlos</em>
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/150x100/795548/white?text=Bachiller+Computaci%C3%B3n" alt="Bachiller" width="150"><br>
+<strong>💻 Bachiller en Computación</strong><br>
+<em>LCT Zona 7</em>
+</td>
+</tr>
+</table>
+
+### 📂 **Acceso a Certificaciones Completas**
+
+[![Diplomas Liderazgo](https://img.shields.io/badge/📋_Diplomas_en_Liderazgo-Ver_Colección-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1TBfGyRntL6rmV4_dg92dX00QIImNvdD8)
+
+[![Diplomas Magento](https://img.shields.io/badge/🛒_Diplomas_Magento-Ver_Certificaciones-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1uMmoJYeGI6gXlhW1Do8CZKy3Nhee2bv1)
 
 </div>
 
@@ -197,6 +229,7 @@
 
 ### **☁️ Cloud y DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=flat-square&logo=google&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -242,20 +275,74 @@
 
 ---
 
-## 📊 Impacto y Métricas
+## 📊 Métricas de Impacto Profesional
 
 <div align="center">
 
-| Métrica | Valor | Descripción |
-|---------|-------|-------------|
-| 🚀 **Años de Experiencia** | 13+ | Desarrollo y liderazgo |
-| 🌍 **Consultoría Internacional** | USDA/IESC | Proyecto ATraCSI |
-| 👥 **Desarrolladores Liderados** | 15+ | Equipos multidisciplinarios |
-| 📈 **Reducción Deuda Técnica** | 90% | Mejora en estabilidad |
-| 🏢 **Productos Desarrollados** | 9+ | Soluciones empresariales |
-| 💼 **Empresas Atendidas** | 10+ | Outsourcing y desarrollo |
-| 🎓 **Certificaciones** | 7+ | Especializaciones técnicas |
-| 🤖 **ChatBots Desarrollados** | 2+ | IA y automatización |
+### 🎯 **Indicadores Clave de Rendimiento**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🚀</h3>
+<h2>13+</h2>
+<p><strong>Años de Experiencia</strong><br>
+<em>Desarrollo y liderazgo</em></p>
+</td>
+<td align="center" width="33%">
+<h3>🌍</h3>
+<h2>USDA/IESC</h2>
+<p><strong>Consultoría Internacional</strong><br>
+<em>Proyecto ATraCSI</em></p>
+</td>
+<td align="center" width="33%">
+<h3>👥</h3>
+<h2>15+</h2>
+<p><strong>Desarrolladores Liderados</strong><br>
+<em>Equipos multidisciplinarios</em></p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h3>📈</h3>
+<h2>90%</h2>
+<p><strong>Reducción Deuda Técnica</strong><br>
+<em>Mejora en estabilidad</em></p>
+</td>
+<td align="center" width="33%">
+<h3>🏢</h3>
+<h2>9+</h2>
+<p><strong>Productos Desarrollados</strong><br>
+<em>Soluciones empresariales</em></p>
+</td>
+<td align="center" width="33%">
+<h3>💼</h3>
+<h2>10+</h2>
+<p><strong>Empresas Atendidas</strong><br>
+<em>Outsourcing y desarrollo</em></p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h3>🎓</h3>
+<h2>7+</h2>
+<p><strong>Certificaciones</strong><br>
+<em>Especializaciones técnicas</em></p>
+</td>
+<td align="center" width="33%">
+<h3>🤖</h3>
+<h2>2+</h2>
+<p><strong>ChatBots Desarrollados</strong><br>
+<em>IA y automatización</em></p>
+</td>
+<td align="center" width="33%">
+<h3>🌎</h3>
+<h2>134K+</h2>
+<p><strong>Beneficiarios de Proyectos</strong><br>
+<em>Impacto social directo e indirecto</em></p>
+</td>
+</tr>
+</table>
 
 </div>
 
