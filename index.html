@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+    <style>
+        /* Estilos Generales */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        /* Encabezado */
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+
+        header ul {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            float: right;
+        }
+
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+
+        header #branding {
+            float: left;
+        }
+
+        header #branding h1 {
+            margin: 0;
+        }
+
+        /* Sección de Inicio */
+        #showcase {
+            min-height: 400px;
+            background: #77aaff;
+            color: #ffffff;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        #showcase h1 {
+            font-size: 55px;
+            margin-top: 0;
+        }
+
+        #showcase p {
+            font-size: 20px;
+        }
+        
+        /* Secciones */
+        section {
+            padding: 20px 0;
+        }
+        
+        .section-title {
+            text-align: center;
+            padding-bottom: 20px;
+            font-size: 30px;
+        }
+
+        /* Proyectos */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .project {
+            background: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        
+        .project img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Contacto */
+        #contact form {
+            width: 50%;
+            margin: auto;
+        }
+
+        #contact input, #contact textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+        }
+
+        #contact button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            border: 0;
+            cursor: pointer;
+        }
+        
+        /* Pie de página */
+        footer {
+            padding: 20px;
+            margin-top: 20px;
+            color: #ffffff;
+            background-color: #333;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Tu</span> Nombre</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">Sobre Mí</a></li>
+                    <li><a href="#projects">Proyectos</a></li>
+                    <li><a href="#contact">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="showcase">
+        <div class="container">
+            <h1>Bienvenido a Mi Portafolio</h1>
+            <p>Un desarrollador web apasionado por crear soluciones innovadoras.</p>
+        </div>
+    </section>
+
+    <section id="about" class="container">
+        <h2 class="section-title">Sobre Mí</h2>
+        <p>¡Hola! Soy [Tu Nombre], un desarrollador de software con experiencia en [Tus Habilidades]. Me encanta transformar ideas en realidad a través del código y estoy siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.</p>
+    </section>
+
+    <hr>
+
+    <section id="projects" class="container">
+        <h2 class="section-title">Mis Proyectos</h2>
+        <div class="project-grid">
+            <div class="project">
+                <img src="https://via.placeholder.com/500x300" alt="Proyecto 1">
+                <h3>Proyecto Uno</h3>
+                <p>Una breve descripción de tu primer proyecto. Explica qué hace y las tecnologías que utilizaste.</p>
+            </div>
+            <div class="project">
+                <img src="https://via.placeholder.com/500x300" alt="Proyecto 2">
+                <h3>Proyecto Dos</h3>
+                <p>Una breve descripción de tu segundo proyecto. Explica qué hace y las tecnologías que utilizaste.</p>
+            </div>
+            <div class="project">
+                <img src="https://via.placeholder.com/500x300" alt="Proyecto 3">
+                <h3>Proyecto Tres</h3>
+                <p>Una breve descripción de tu tercer proyecto. Explica qué hace y las tecnologías que utilizaste.</p>
+            </div>
+        </div>
+    </section>
+    
+    <hr>
+
+    <section id="contact" class="container">
+        <h2 class="section-title">Contacto</h2>
+        <form id="contact-form">
+            <input type="text" placeholder="Tu Nombre" required>
+            <input type="email" placeholder="Tu Correo Electrónico" required>
+            <textarea placeholder="Tu Mensaje" rows="5" required></textarea>
+            <button type="submit">Enviar Mensaje</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>Copyright &copy; 2025, Tu Nombre</p>
+    </footer>
+    
+    <script>
+        // Simple script para manejar el envío del formulario
+        const contactForm = document.getElementById('contact-form');
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('¡Gracias por tu mensaje!');
+            contactForm.reset();
+        });
+    </script>
+</body>
+</html>
