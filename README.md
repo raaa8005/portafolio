@@ -45,7 +45,8 @@
 **Ingeniero en Ciencias y Sistemas** con **13+ años** de experiencia liderando equipos multidisciplinarios y desarrollando soluciones tecnológicas empresariales. **Fundador y CEO de Rasoftec**, empresa especializada en desarrollo de software a medida y outsourcing de personal TIC.
 
 ### 🏆 Logros Destacados
-- 🚀 **Fundador de Rasoftec** con 8+ productos empresariales desarrollados
+- 🚀 **Fundador de Rasoftec**
+ con 8+ productos empresariales desarrollados
 - 🌍 **Consultor Internacional USDA** - Proyecto ATraCSI
 - 💼 **Outsourcing exitoso** a empresas como Lucalza, Teasa y Prosisco
 - 👥 **Liderazgo de 15+ desarrolladores** en equipos multidisciplinarios
